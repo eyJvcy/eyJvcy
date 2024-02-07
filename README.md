@@ -28,12 +28,6 @@
  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-## 🎶 **Music Addict**:
-
-<p align="center">
-  <strong>Favorite Song<strong> <br>
-  <A href="https://www.youtube.com/watch?v=PM82jeMR488" title="Vyok - Hell on Earth"><IMG src="https://i1.sndcdn.com/artworks-2h1cSFkuyZyObPbP-zAzkWQ-t500x500.jpg" border="0" ></A>
-</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/eyJvcy/count.svg" />
