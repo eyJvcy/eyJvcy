@@ -1,7 +1,3 @@
-## My Discord:
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/899611237288140820?idleMessage=Destroy%20everything.%20That%20is%20the%20only%20one%20mission%20bestowed%20upon%20us.......%20You%20should%20get%20ready%20to%20become%20hunted.&hideStatus=true)](https://dsc.bio/eyjvcy/)
-
-
 ## 🌍 Programming languages:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
